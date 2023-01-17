@@ -1,0 +1,22 @@
+{
+    "name":"SPORT ENTERPRENEUR",
+    "short_name":"SPORT ENTERPRENEUR",
+    "start_url":"index.html",
+    "display":"standalone",
+    "background_color":"#FFFFFF",
+    "theme_color":"black",
+    "scope": ".",
+    "description":"This is a SPORT ENTERPRENEUR.",
+    "icons":[
+    {
+    "src":"assets/images/bg.jpeg",                     
+    "sizes":"192x192",
+    "type":"image/png"
+    },
+    {
+    "src":"assets/images/bg.jpeg",
+    "sizes":"512x512",
+    "type":"image/png"
+    }
+  ]
+}
